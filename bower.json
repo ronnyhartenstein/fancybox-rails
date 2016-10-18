@@ -1,5 +1,5 @@
 {
-  "name": "fancybox-rails-axi",
+  "name": "fancybox-rails",
   "version": "0.3.1",
   "main": ["vendor/assets/javascripts/fancybox.js", "vendor/assets/stylesheets/fancybox.css"],
   "ignore": [
